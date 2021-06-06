@@ -1,7 +1,7 @@
 package xls
 
 
-func calc(v int) int {
+func calc111(v int) int {
 
 return v*v
 }
